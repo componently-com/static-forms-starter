@@ -2,4 +2,4 @@
 
 ## Prerequisites
 
-Obtain an API key from [Static Forms](https://www.staticforms.xyz/).
+Obtain an Access Key from [Static Forms](https://www.staticforms.xyz/).
